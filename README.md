@@ -1,10 +1,6 @@
  <div align="center">
 
-# Hi, I'm Axel.
-
----
-
-### Full Stack Developer
+<h1>Hi, I'm Axel - Full Stack Developer</h1>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&left=true&vCenter=true&width=600&lines=Web+Development+%26+Software;Building+Digital+Solutions;Creating+Modern+Web+Experiences" alt="Typing SVG" />
